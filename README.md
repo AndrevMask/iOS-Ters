@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Arada bir buraya bir şeyler bırakırız. iOS sızma testleri adına faydalı olabileceğini düşündüğüm betikler. Telegramdan takip etmeyi unutmayın: @killedhookblog
