@@ -19,5 +19,5 @@ if (ObjC.available) {
         console.error("Error: " + error.message);
     }
 } else {
-    console.fix("Kanca takılamadı.");
+    console.error("Kanca takılamadı.");
 }
