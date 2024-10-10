@@ -15,8 +15,8 @@ if (ObjC.available) {
         defaults.setBool_forKey_(false, key); // bool
         console.log("Kanca takıldı. andrevgeldikizlar"); 
 
-    } catch (fix) {
-        console.fix("Error: " + fix.message);
+    } catch (error) {
+        console.error("Error: " + error.message);
     }
 } else {
     console.fix("Kanca takılamadı.");
